@@ -1,0 +1,53 @@
+Reading Advice
+Reading advice for Multicore Programming
+
+
+The course is defined by the slides. Some slides contain details which I certainly not will ask on the exam, e.g. on the automatic parallelization of sequential code by optimizing compilers. Principles are more important.
+
+Below are advice on what is important to achieve a certain grade, i.e. if you wish to pass you should study at least those pages marked as 3.
+
+3 = everybody should know this
+
+4 = more advanced
+
+5 = even more advanced
+
+S = skip, e.g. due to it's covered by another course
+
+The basic idea for what to prioritize is to understand principles and not details.
+
+
+
+For the most recent edition printed at Amazon since 2016, the reading advice is here.
+
+
+
+LTH
+---
+167-177     3   but not "Write atomicity in update protocols"
+177         5   Write atomicity in write update protocols
+178-184     3
+185         5   But skip the numbers -- only trends.
+185         4   5.6.1
+185-188     5   5.6.2 but not likely I will ask about details...
+188-189     4   5.6.3 principles only
+189-196     4   skip 5.8
+231-233     3   6.8.2
+280-290     5   7.17 -- 7.18
+651-669     3   17
+671-681     4   18
+
+167-177     3   but not "Write atomicity in update protocols"
+178-184     3
+231-233     3   6.8.2
+651-669     3   17
+
+185         4   5.6.1
+188-189     4   5.6.3 principles only
+189-196     4   skip 5.8
+671-681     4   18
+
+177         5   Write atomicity in write update protocols
+185         5   But skip the numbers -- only trends.
+185-188     5   5.6.2 but not likely I will ask about details...
+280-290     5   7.17 -- 7.18
